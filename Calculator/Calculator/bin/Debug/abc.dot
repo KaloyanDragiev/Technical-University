@@ -1,0 +1,4 @@
+graph calculus {
+node[fontname = "Arial"]
+node5 [ label = "1" ]
+}

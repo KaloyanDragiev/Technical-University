@@ -1,0 +1,30 @@
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\koko\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\koko\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\koko\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.IntegralForm.resources
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.MaclaurinForm.resources
+C:\Users\koko\source\repos\Calculator\Calculator\bin\Debug\Json.dll
+C:\Users\koko\source\repos\Calculator\Calculator\bin\Debug\Json.pdb
+C:\Users\koko\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\bin\Debug\Json.dll
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\bin\Debug\Json.pdb
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.IntegralForm.resources
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.MaclaurinForm.resources
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\koko\Desktop\Fontys University\Year 2\TU\PracticalCalculus\Calculator\Calculator\obj\Debug\Calculator.pdb

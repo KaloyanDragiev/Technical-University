@@ -1,0 +1,15 @@
+C:\Users\koko\Desktop\lpp\LPP\LPP\bin\Debug\LPP.exe.config
+C:\Users\koko\Desktop\lpp\LPP\LPP\bin\Debug\LPP.exe
+C:\Users\koko\Desktop\lpp\LPP\LPP\bin\Debug\LPP.pdb
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.csprojAssemblyReference.cache
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\MainWindow.g.cs
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\App.g.cs
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP_MarkupCompile.cache
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP_MarkupCompile.lref
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\MainWindow.baml
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.g.resources
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.Properties.Resources.resources
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.csproj.GenerateResource.cache
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.csproj.CoreCompileInputs.cache
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.exe
+C:\Users\koko\Desktop\lpp\LPP\LPP\obj\Debug\LPP.pdb

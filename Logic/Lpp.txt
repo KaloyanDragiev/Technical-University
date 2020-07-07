@@ -1,0 +1,43 @@
+TODO: Semantic tablaue with variables...
+
+//&(A,B) 
+//F 0 0   0           0 *  0
+//F 0 1   0           * 0  0
+//F 1 0   0           1 1  1
+//F 1 1   1  
+
+//|(|(A,B),C) 
+//t//0 0 0   0       0*1
+//f//0 0 1   1       *01   
+//f//0 1 0   1       01*
+//f//0 1 1   1       *10
+//t//1 0 0   1       *11
+//t//1 0 1   1       1*0
+//f//1 1 0   1       1*1
+//t//1 1 1   1       11*
+
+~(~(~(&(&(C,A),A)))) !!!!!!!!
+>(>(|(P,Q),R),|(>(P,R),>(Q,R))) 
+>(>(&(~(R),Q),~(P)),>(&(P,Q),R)) FF  tautology  
+&(|(A,B),&(~(A),~(B))) contradiction
+&(|(A,~(B)),C) normal 
+&(|(C,~(B)),A) sorting   
+>(>(>(>(A,B),B),B),>(>(A,B),B)) nested complex 
+=(>(A,B),|(~(A),=(>(A,B),|(~(A),B)))) complex 
+                =(>(A,B),|(A,B)) trim 
+=(>(A          ,B),|(A                ,B)) empty space 
+>(A,|(&(D,A),C))) EF   
+>(&(|(~(A), C), =(A,B)), >(&(~(C),D),E)) FFFFFFFB  5 variables   
+&(~(|(P,Q)),>(=(Q,R),=(S,T))) F9    5 variables
+>(&(|(~(C), C), =(A,B)), >(&(~(J),D),E))  6 variables 
+>(&(|(~(G), C), =(A,B)), >(&(~(J),D),E))   7 variables
+&(A,|(B,&(R,|(N,&(W,&(X,C)))))) 7 variables
+>(&(|(~(G), C), =(A,B)), >(&(~(J),D),=(E,F))) 8 varibles 
+>(&(|(~(G), C), =(A,B)), >(&(~(J),=(D,S)),=(E,F))) 9 varibles doesn't compile -----	but works on debug...
+=( >(A,B), |( ~(|(E,Z)) ,&(D,F)) )  TOOBIG NANDIFY SIMPLIFY
+ =( >(A,B), |( ~(|(E,Z)) ,&(D,F)) )   hashcode goes wrong
+ 
+ >(!x.(@y.(P(x,y))),@q.(!p.(P(p,q))))
+>(@q.(!p.(P(p,q))),!x.(@y.(P(x,y))))
+>(!q.(@p.(P(p,q))),!x.(@y.(P(x,y))))
+@x.(!y.(P(x,y)))	

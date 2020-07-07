@@ -1,0 +1,17 @@
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Tests.dll
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Tests.pdb
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\LPP_Project.exe
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\LPP_Project.pdb
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\LPP_Project.exe.config
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\koko\Desktop\lpp\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\koko\Desktop\lpp\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\koko\Desktop\lpp\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\koko\Desktop\lpp\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\koko\Desktop\lpp\Tests\obj\Debug\Tests.dll
+C:\Users\koko\Desktop\lpp\Tests\obj\Debug\Tests.pdb

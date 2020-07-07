@@ -1,0 +1,33 @@
+﻿<Window x:Class="LPP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LPP"
+        mc:Ignorable="d"
+        Title="LPP" Height="709.543" Width="1405.829" Closing="Window_Closing">
+    <Grid Margin="0,0,-0.2,-42">
+        <TextBox x:Name="tbInput" HorizontalAlignment="Left" Height="23" Margin="94,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1019"/>
+        <Button x:Name="btnParse" Content="Parse" HorizontalAlignment="Left" Margin="1135,29,0,0" VerticalAlignment="Top" Width="85" Height="23" Click="btnParse_Click"/>
+        <TextBox x:Name="tbInfix" HorizontalAlignment="Left" Height="23" Margin="94,61,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1019" IsReadOnly="True" IsEnabled="False"/>
+        <Image x:Name="imgTree" HorizontalAlignment="Left" Height="388" Margin="40,265,0,0" VerticalAlignment="Top" Width="361"/>
+        <Label Content="Input" HorizontalAlignment="Left" Margin="50,29,0,0" VerticalAlignment="Top"/>
+        <Label Content="Infix" HorizontalAlignment="Left" Margin="57,60,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lbTruthTable" HorizontalAlignment="Left" Height="432" Margin="406,221,0,0" VerticalAlignment="Top" Width="297"/>
+        <ListBox x:Name="lbSimpleTable" HorizontalAlignment="Left" Height="432" Margin="722,221,0,0" VerticalAlignment="Top" Width="292"/>
+        <TextBox x:Name="tbNormalForm" HorizontalAlignment="Left" Height="23" Margin="96,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1019" IsReadOnly="True" IsEnabled="False"/>
+        <Label Content="Normal form" HorizontalAlignment="Left" Margin="10,126,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.709,2.434"/>
+        <TextBox x:Name="tbNandify" HorizontalAlignment="Left" Height="23" Margin="96,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1019" IsReadOnly="True" IsEnabled="False"/>
+        <Label Content="Nandify" HorizontalAlignment="Left" Margin="37,93,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbNormalNandify" HorizontalAlignment="Left" Height="23" Margin="96,157,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1019" IsReadOnly="True" IsEnabled="False"/>
+        <Label Content="Nandify normal" HorizontalAlignment="Left" Margin="0,158,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lbHashes" HorizontalAlignment="Left" Height="125" Margin="1032,221,0,0" VerticalAlignment="Top" Width="295"/>
+        <ListBox x:Name="lbUnbound" HorizontalAlignment="Left" Height="119" Margin="1135,87,0,0" VerticalAlignment="Top" Width="109"/>
+        <Label Content="Unbound variables" HorizontalAlignment="Left" Margin="1135,61,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbSubstitute" HorizontalAlignment="Left" Height="23" Margin="1249,87,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="78"/>
+        <Button x:Name="btnSubstitute" Content="Substitute" HorizontalAlignment="Left" Margin="1249,115,0,0" VerticalAlignment="Top" Width="78" Height="27" Click="btnSubstitute_Click"/>
+        <Button x:Name="btnTableaux" Content="Semantic tableaux" HorizontalAlignment="Left" Margin="1249,29,0,0" VerticalAlignment="Top" Width="109" Height="23" Click="btnTableaux_Click"/>
+        <Label x:Name="lblTautology" Content="Is tautology? " HorizontalAlignment="Left" Margin="1249,0,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.24,0.281"/>
+        <Button x:Name="btnShowTree" Content="Show tree" HorizontalAlignment="Left" Margin="1249,57,0,0" VerticalAlignment="Top" Width="109" IsEnabled="False" Click="btnShowTree_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,8 @@
+• A and ¬B are literals
+• A∨¬B∨¬D is a clause. So is C. 
+• A∨¬B∨¬A is a tautology, which is always true
+
+https://www.cs.sfu.ca/~ggbaker/zju/math/normalform.html
+
+
+http://www.cogsci.rpi.edu/~heuveb/teaching/Logic/CompLogic/Web/Presentations/ResolutionDavisPutnam.pdf

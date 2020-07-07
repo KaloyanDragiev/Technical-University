@@ -1,0 +1,44 @@
+graph logic {
+node[fontname = "Arial"]
+node37 [ label = "=>" ]
+node37 -- node21
+node21 [ label = "^" ]
+node21 -- node17
+node17 [ label = "E" ]
+node21 -- node20
+node20 [ label = "V" ]
+node20 -- node18
+node18 [ label = "A" ]
+node20 -- node19
+node19 [ label = "E" ]
+node37 -- node36
+node36 [ label = "<=>" ]
+node36 -- node25
+node25 [ label = "¬" ]
+node25 -- node24
+node24 [ label = "^" ]
+node24 -- node22
+node22 [ label = "D" ]
+node24 -- node23
+node23 [ label = "F" ]
+node36 -- node35
+node35 [ label = "¬" ]
+node35 -- node34
+node34 [ label = "¬" ]
+node34 -- node33
+node33 [ label = "^" ]
+node33 -- node26
+node26 [ label = "D" ]
+node33 -- node32
+node32 [ label = "¬" ]
+node32 -- node31
+node31 [ label = "^" ]
+node31 -- node27
+node27 [ label = "E" ]
+node31 -- node30
+node30 [ label = "V" ]
+node30 -- node28
+node28 [ label = "A" ]
+node30 -- node29
+node29 [ label = "A" ]
+}
